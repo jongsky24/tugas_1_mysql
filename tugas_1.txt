@@ -1,0 +1,20 @@
+1. Pengertian Database atau basis data adalah kumpulan berbagai data dan informasi yang tersimpan dan tersusun di dalam komputer secara sistematik yang dapat diperiksa, diolah atau dimanipulasi dengan menggunakan program komputer untuk mendapatkan informasi dari basis data tersebut.
+2. RDBMS adalah kependekan dari Relational Database Management System. RDBMS adalah program yang melayani sistem basis data yang entitas utamanya terdiri dari tabel-tabel yang mempunyai relasi dari satu tabel ke tabel yang lain.
+3. 
+Flat Model
+Hirarki Model
+Network Model
+Relasional Model
+Objek Oriented Model
+4. MongoDB
+Microsoft SQL Server
+Oracle
+Firebird
+PostgreSQL
+Microsoft Access
+5. 
+1. Multi-Platform
+2. Tidak Berbayar (Open Source)
+3. Multi-User
+4. Memiliki Berbagai Tipe Data
+5. Memilki Fitur Keamanan yang Baik
